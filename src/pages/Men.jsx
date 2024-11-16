@@ -1,5 +1,11 @@
+import ArrowForwardIosIcon from "@mui/icons-material/ArrowForwardIos";
+
 function Men() {
-  return <div>Men</div>;
+  return (
+    <div>
+      <ArrowForwardIosIcon />
+    </div>
+  );
 }
 
 export default Men;
