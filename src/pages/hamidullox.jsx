@@ -15,7 +15,7 @@ function Hamidullox() {
   return (
     <div>
         <div className="mt-[100px] ml-[100px] text-[40px] text-orange-950">
-            <h1>Создание заявки 1</h1>
+            <h1>Создание заявки</h1>
         </div>
 
         <div className='flex justify-between'>
